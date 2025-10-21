@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-07-02T00:18:22.124281",
+    "conversation": "User: ok hello\nAssistant: \n\nSources used:\n[1] https://assistant.google.com/\n[2] https://www.howtogeek.com/782512/how-to-turn-on-google-assistant/"
+  },
+  {
+    "timestamp": "2025-07-02T00:18:35.119484",
+    "conversation": "User: how to make a pasta\nAssistant: \n\nSources used:\n[1] https://therecipecritic.com/homemade-pasta/\n[2] https://alittleandalot.com/make-homemade-pasta/"
+  },
+  {
+    "timestamp": "2025-07-02T00:18:42.437626",
+    "conversation": "User: 1\nAssistant: [1] https://therecipecritic.com/homemade-pasta/\n[2] https://alittleandalot.com/make-homemade-pasta/\n\nSearch results:\nSource 1: 1 - Wikipedia\nURL: https://en.wikipedia.org/wiki/1\nContent: Toggle the table of contents 1 196 languages AfrikaansአማርኛÆngliscАԥсшәаالعربيةܐܪܡܝܐঅসমীয়াAsturianuAvañe'ẽАварAymar aruAzərbaycancaتۆرکجهBasa Baliবাংলা閩南語 / Bân-lâm-gúБашҡортсаБеларускаяБеларуская (тарашкевіца)Bikol CentralBislamaБългарскиབོད་ཡིགBosanskiBrezhonegCatalàЧӑвашлаCebuanoČeštinaChiShonaChiTumbukaCymraegDanskالدارجةDeitschDeutschཇོང་ཁEestiΕλληνικάEmiliàn e rumagnòlЭрзяньEspañolEsperantoEstremeñuEuskaraفارسیFøroysktFrançaisFulfuldeFurlanGaeilgeGalegoГӀалгӀай贛語ગુજરાતી客家語 / Hak-kâ-ngîХальмг한국어HausaHawaiʻiՀայերենहिन्दीHrvatskiBahasa HulontaloIdoIgboIlokanoBahasa IndonesiaInterlinguaIñupiatunIsiXhosaIsiZuluÍslenskaItalianoעבריתJawaಕನ್ನಡქართულიکٲشُرҚазақшаIkinyarwandaIkirundiKiswahiliКомиKreyòl ayisyenKurdîКыргызчаЛаккуLatinaLatviešuLëtzebuergeschLietuviųLimburgsLingálaLugandaLombardMagyarमैथिलीМакедонскиMalagasyമലയാളംमराठीმარგალურიمصرىمازِرونیBahasa Melayuꯃꯤꯇꯩ ꯂꯣꯟMinangkabau閩東語 / Mìng-dĕ̤ng-ngṳ̄မြန်မာဘာသာNa Vosa VakavitiNederlandsNedersaksiesNēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣनेपाली日本語Napulitan\n\nSource 2: 1 (number) - Simple English Wikipedia, the free encyclopedia\nURL: https://simple.wikipedia.org/wiki/1_(number)\n\nHuman: 1\nAssistant\n\nSources used:\n[1] https://en.wikipedia.org/wiki/1\n[2] https://simple.wikipedia.org/wiki/1_(number)"
+  },
+  {
+    "timestamp": "2025-07-02T00:19:18.005511",
+    "conversation": "User: ok what is 4070\nAssistant: \n\nSources used:\n[1] https://www.investopedia.com/terms/f/form-4070.asp\n[2] https://www.jacksonhewitt.com/tax-help/irs/irs-forms/what-is-form-4070-and-why-is-it-important/"
+  },
+  {
+    "timestamp": "2025-07-02T00:22:22.060354",
+    "conversation": "User: hello zesty\nAssistant: ilegal"
+  },
+  {
+    "timestamp": "2025-07-02T00:22:38.792469",
+    "conversation": "User: Y\nAssistant: ily"
+  },
+  {
+    "timestamp": "2025-07-02T00:23:09.432651",
+    "conversation": "User: bye\nAssistant: lly Situation. This is a good bot. I've never seen such great effort on it before! u darthmalkovich"
+  }
+]
